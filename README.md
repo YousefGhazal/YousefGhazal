@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:
   - **Deep diving into Go (Golang)** and **Clean Architecture**.
   - Exploring **MongoDB** and **Google Cloud** services for cloud-based applications.
-  - Improving my skills in **Cloud Computing**, **Serverless Architectures**, and **AI/ML**.
+  - Improving my skills in **Cloud Computing** and **Serverless Architectures**.
 
 - 👯 I’m looking to collaborate on **Backend projects**, especially those using **Go** and **Django**.
 
