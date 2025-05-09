@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef</h1>
 <h3 align="center">A passionate Backend Engineer</h3>
 
-- 🔭 I’m currently working as **a Freelancer**
+- 🔭 I’m currently working as **a Backend Engineer**
   
 - 🌱 I’m currently learning:
   - **Deep diving into Go (Golang)** and **Clean Architecture**.
@@ -25,7 +25,7 @@
 
 - 📄 Check out my detailed experiences and past projects [here](https://drive.google.com/file/d/1ECWOVb0NI2BremCaaOZxKx8Pz0xko0ny/view?usp=drive_link).
 
-- ⚡ Fun fact: I love solving complex problems and am always up for a good coding challenge. When I'm not coding, you can find me experimenting with new tech or sipping on a cup of coffee!
+- ⚡ Fun fact: I love solving complex problems and am always up for a good coding challenge. You can find me experimenting with new tech or sipping on a cup of coffee when I'm not coding!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
